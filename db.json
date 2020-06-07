@@ -1,0 +1,60 @@
+{
+  "posts": [
+    {
+    "id": 1,
+    "category":"Hierbas",
+    "img": "https://www.frutoseco.com/510-large_default/manzanilla-de-mahon-amarga-bandeja-100-gramos.jpg",
+    "name": "MANZANILLA DE MAHÓN (AMARGA), BANDEJA 100 GRAMOS",
+    "price":"2.5",
+    "description": "La manzanilla es una hierba aromática que ha sido utilizada desde hace siglos con fines medicinales. Su nombre botánico es Matricaria Recutita. Se trata de una planta herbácea anual de hasta 40 cm de altura, de tallo cilíndrico, erecto y ramificado, que desprende un fuerte aroma. Sus hojas se encuentran alternadas y tienen un color verde intenso. Es común encontrarla en climas templados. Es originaria de Europa y de allí fue introducida en América, donde es muy comercializada y cultivada. La parte medicinal que se utiliza son las flores."
+  },
+  {
+    "id": 2,
+    "category":"Hierbas",
+    "img": "https://www.frutoseco.com/603-large_default/hierba-luisa-bandeja-50-gramos.jpg",
+    "name": "HIERBA LUISA, BANDEJA 50 GRAMOS",
+    "price":"3",
+    "description": "Es una planta herbácea, perenne, aromática y robusta que se propaga por esquejes y pertenece a la familia de las Gramíneas. Las flores se reúnen en espiguillas de 30-60 cm de longitud formando racimos. Las hojas son muy aromáticas y alargadas como listones, ásperas, de color verde claro que brotan desde el suelo formando matas densas. Las flores están agrupadas en espigas y se ven dobladas al igual que las hojas."
+  },
+  {
+    "id": 3,
+    "category":"Hierbas",
+    "img": "https://www.frutoseco.com/604-large_default/hierbabuena-bote-24-gramos-envasado-al-vacio.jpg",
+    "name": "HIERBABUENA, BOTE 24 GRAMOS",
+    "price": "1.05",
+    "description": "Mentha spicata, conocida popularmente como hierbabuena, yerbabuena o menta de jardín, es una especie del género Mentha, una hierba aromática muy empleada en gastronomía y perfumería por su aroma intenso y fresco.Alcanza los 30 cm de altura.Las flores poseen un cáliz con cinco sépalos aproximadamente iguales y garganta glabra. La corola es lila, rosa o blanca, y muy glandulosa, de hasta 3 mm de largo. Las raíces son extensas e invasivas."
+  },
+  {
+    "id": 4,
+    "category":"Especias",
+    "img": "https://www.frutoseco.com/568-large_default/garam-masala-bote-70-gramos-envasado-al-vacio.jpg",
+    "name": "GARAM MASALA, BOTE 70 GRAMOS",
+    "price": "3.5",
+    "description": "La mezcla garam masala proviene originalmente del norte de la India, pero hoy en día es un ingrediente esencial en la cocina de todo el país. Su composición varía según las diferentes regiones; nuestro garam masala es una mezcla de fenogreco, canela, hinojo, pimienta negra, cardamomo, y cilantro."
+  },
+  {
+    "id": 5,
+    "category":"Especias",
+    "img": "https://www.frutoseco.com/545-large_default/canela-en-rama-bandeja-120-gramos.jpg",
+    "name": "CANELA EN RAMA, BANDEJA 120 GRAMOS",
+    "price":"3.2",
+    "description": "El árbol de la canela, conocido como canelo,​ (Cinnamomum zeylanicum o Cinnamomum verum J. Presl) es un árbol de hoja perenne, de 10 a 15 metros de altura, procedente de Sri Lanka. Se aprovecha como especia su corteza interna, que se obtiene pelando y frotando las ramas."
+  },
+  {
+    "id": 6,
+    "category":"Frutos Secos",
+    "img": "https://www.frutoseco.com/34-large_default/nueces-pecanas-peladas-bote-200-gramos.jpg",
+    "name": "NUECES PECANAS PELADAS, BOTE 200 GRAMOS",
+    "price":"4.2",
+    "description": "Se conoce comúnmente como nuez de Illinois, pecana, nuez pecana, pecanero, pecán, nogal americano, nuez duquita, nogal liso, nogalito, nogal morado, entre otros. Se trata de un árbol perenne, deciduo y longevo que supera los 30 m de altura. Presenta hojas alternas que pueden ser compuestas e imparipinnadas."
+  },
+  {
+    "id": 7,
+    "category":"Frutos Secos",
+    "img": "https://www.frutoseco.com/63-large_default/comprar-avellanas-crudas-250-gramos.jpg",
+    "name": "AVELLANAS NATURALES CRUDAS CON PIEL, BOLSA 250 GRAMOS",
+    "price":"2.5",
+    "description": "La avellana es el fruto de tipo nuez del avellano común, Corylus avellana. Etimológicamente proviene del latín nux abellana, «fruto seco o nuez de Avella», pueblo de la provincia italiana de Avellino. Tiene forma esferoidal, con un diámetro aproximado de 10 a 15 mm."
+  }
+  ]
+}
